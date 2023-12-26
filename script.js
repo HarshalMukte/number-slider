@@ -2,7 +2,7 @@ const slider = document.querySelector(".slide")
 const number = document.querySelector(".number")
 const incBtn = document.querySelector(".incBtn")
 const decBtn = document.querySelector(".decBtn")
-let count = 0
+let count = 1
 
 //functions
 const incFuncton = () => {
