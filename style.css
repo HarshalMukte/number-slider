@@ -70,7 +70,7 @@ body{
     justify-content: center;
     cursor: pointer;
 }
-.btn span{
+.btn span, .number{
     user-select: none;
     -webkit-user-select: none;
 }
